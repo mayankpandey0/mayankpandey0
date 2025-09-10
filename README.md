@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Mayank Pandey  
 
-<!--
-**mayankpandey0/mayankpandey0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Developer | CSE Student | Tech Explorer**  
+🚀 Passionate about **IoT, Web Development, and AI/ML**  
+📚 Currently exploring **Spring MVC, Databases, and System Design**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages & Core Skills**  
+- C / C++ (IoT & System Programming)  
+- Python (Scripting, Data & AI Basics)  
+- Java (Spring MVC)  
+- JavaScript (Frontend & Backend)  
+- MySQL (Database Design & Management)  
+
+**Tools & Platforms**  
+- Git & GitHub  
+- VS Code | IntelliJ IDEA | Eclipse  
+- Linux & Windows Development  
+
+---
+
+## 📊 GitHub Stats
+
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankpandey0&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankpandey0&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Connect with Me
+
+- **LinkedIn:** [@Mayank_Pandey](https://www.linkedin.com/in/itsmayankpandey)  
+
+---
+
+## ⚡ Fun Fact  
+_"Code is like humor. When you have to explain it, it’s bad."_  
