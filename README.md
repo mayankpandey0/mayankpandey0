@@ -1,18 +1,19 @@
 # 👋 Hi, I'm Mayank Pandey  
 
-💻 **Aspiring Developer | CSE Student | Tech Explorer**  
-🚀 Passionate about **IoT, Web Development, and AI/ML**  
-📚 Currently exploring **Spring MVC, Databases, and System Design**  
+Specializing Agentic AI.
+AI Developer| CSE Student |   
+🚀 Passionate about Automation Workflows,RAG Systems, and AI/ML**  
+📚 Currently exploring Automation workflows, RAG System, and AI Agents**  
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages & Core Skills**  
-- C / C++ (IoT & System Programming)  
+- AI Agents (coding and automations)
 - Python (Scripting, Data & AI Basics)  
 - Java (Spring MVC)  
-- JavaScript (Frontend & Backend)  
+-  C / C++ (IoT & System Programming)  
 - MySQL (Database Design & Management)  
 
 **Tools & Platforms**  
