@@ -50,14 +50,20 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayankpandey0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Mayank's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankpandey0&theme=radical&hide_border=true&background=0D1117" alt="Mayank's Streak" width="48%" />
+  <a href="https://github.com/mayankpandey0">
+    <img src="https://github-readme-stats.vercel.app/api?username=mayankpandey0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Mayank's GitHub stats" width="48%" />
+  </a>
+  <a href="https://github.com/mayankpandey0">
+    <img src="https://streak-stats.demolab.com/?user=mayankpandey0&theme=radical&hide_border=true&background=0D1117" alt="Mayank's Streak" width="48%" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankpandey0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+  <a href="https://github.com/mayankpandey0">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankpandey0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+  </a>
 </div>
 
 ---
