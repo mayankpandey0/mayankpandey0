@@ -55,13 +55,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <a href="https://github.com/mayankpandey0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankpandey0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
-  </a>
-</div>
-
 ---
 
 ### 🤝 Let's Connect
