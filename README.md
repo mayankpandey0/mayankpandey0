@@ -47,9 +47,9 @@
 
 <div align="center">
   <!-- START_LANGUAGES -->
-  <img src="https://img.shields.io/badge/Python-86.5%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-4.6%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/CSS-3.5%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Python-86.8%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-4.5%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/CSS-3.4%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <!-- END_LANGUAGES -->
   <br/>
   <a href="https://github.com/mayankpandey0">
