@@ -46,14 +46,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayankpandey0&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="Mayank's Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/mayankpandey0">
-    <img src="https://github-readme-stats.vercel.app/api?username=mayankpandey0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Mayank's GitHub stats" width="48%" />
+   <a 
+    href="https://github.com/mayankpandey0">
   </a>
   <a href="https://github.com/mayankpandey0">
     <img src="https://streak-stats.demolab.com/?user=mayankpandey0&theme=radical&hide_border=true&background=0D1117" alt="Mayank's Streak" width="48%" />
