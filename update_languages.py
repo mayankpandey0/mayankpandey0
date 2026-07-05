@@ -49,28 +49,72 @@ def main():
     top_3 = sorted_langs[:3]
     total_bytes = sum(count for _, count in sorted_langs)
     
-    # Language branding information
-    lang_styles = {
-        "Python": {"color": "3776AB", "logo": "python"},
-        "Java": {"color": "ED8B00", "logo": "openjdk"},
-        "JavaScript": {"color": "F7DF1E", "logo": "javascript"},
-        "TypeScript": {"color": "3178C6", "logo": "typescript"},
-        "HTML": {"color": "E34F26", "logo": "html5"},
-        "CSS": {"color": "1572B6", "logo": "css3"},
-        "C++": {"color": "00599C", "logo": "cplusplus"},
-        "C": {"color": "A8B9CC", "logo": "c"},
-        "Shell": {"color": "89E051", "logo": "gnubash"},
-        "Go": {"color": "00ADD8", "logo": "go"},
+    # Language branding and icons (Devicons)
+    lang_info = {
+        "Python": {
+            "name": "Python",
+            "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+        },
+        "Java": {
+            "name": "Java",
+            "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+        },
+        "JavaScript": {
+            "name": "JavaScript",
+            "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+        },
+        "TypeScript": {
+            "name": "TypeScript",
+            "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+        },
+        "HTML": {
+            "name": "HTML",
+            "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+        },
+        "CSS": {
+            "name": "CSS",
+            "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+        },
+        "C++": {
+            "name": "C++",
+            "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+        },
+        "C": {
+            "name": "C",
+            "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+        },
+        "Shell": {
+            "name": "Shell / Bash",
+            "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
+        },
+        "Go": {
+            "name": "Go",
+            "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+        },
     }
     
     # Generate replacement Markdown block
     content_lines = ["<!-- START_LANGUAGES -->\n"]
     for lang, bytes_count in top_3:
         percent = (bytes_count / total_bytes) * 100
-        style = lang_styles.get(lang, {"color": "555555", "logo": "github"})
-        logo_part = f"&logo={style['logo']}&logoColor=white" if style['logo'] else ""
-        badge_url = f"https://img.shields.io/badge/{lang}-{percent:.1f}%25-{style['color']}?style=for-the-badge{logo_part}"
-        content_lines.append(f'  <img src="{badge_url}" alt="{lang}" />\n')
+        info = lang_info.get(lang, {
+            "name": lang,
+            "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+        })
+        
+        # HTML card layout matching GitHub's dark theme
+        card = (
+            f'  <div style="display: inline-block; background-color: #0D1117; '
+            f'border: 1px solid #30363D; border-radius: 8px; padding: 16px 20px; '
+            f'margin: 8px; width: 140px; text-align: center; vertical-align: middle; '
+            f'box-shadow: 0 4px 6px rgba(0,0,0,0.1);">\n'
+            f'    <img src="{info["icon"]}" alt="{info["name"]}" width="40" height="40" style="margin-bottom: 10px;" />\n'
+            f'    <div style="font-size: 14px; font-weight: 600; color: #C9D1D9; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">{info["name"]}</div>\n'
+            f'    <div style="font-size: 13px; font-weight: 500; color: #8B949E; margin-top: 6px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">{percent:.1f}%</div>\n'
+            f'  </div>\n'
+        )
+        content_lines.append(card)
+        
     content_lines.append("  <!-- END_LANGUAGES -->")
     new_metrics = "".join(content_lines)
     
@@ -84,7 +128,7 @@ def main():
         updated_content = re.sub(pattern, new_metrics, readme_content, flags=re.DOTALL)
         with open(readme_path, "w", encoding="utf-8") as f:
             f.write(updated_content)
-        print("README.md updated with top 3 languages.")
+        print("README.md updated with 3 elegant language cards.")
     else:
         print("Markers not found in README.md.")
 
