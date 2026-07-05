@@ -47,21 +47,9 @@
 
 <div align="center">
   <!-- START_LANGUAGES -->
-  <div style="display: inline-block; background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 16px 20px; margin: 8px; width: 140px; text-align: center; vertical-align: middle; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-bottom: 10px;" />
-    <div style="font-size: 14px; font-weight: 600; color: #C9D1D9; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">Python</div>
-    <div style="font-size: 13px; font-weight: 500; color: #8B949E; margin-top: 6px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">87.0%</div>
-  </div>
-  <div style="display: inline-block; background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 16px 20px; margin: 8px; width: 140px; text-align: center; vertical-align: middle; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-bottom: 10px;" />
-    <div style="font-size: 14px; font-weight: 600; color: #C9D1D9; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">JavaScript</div>
-    <div style="font-size: 13px; font-weight: 500; color: #8B949E; margin-top: 6px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">4.4%</div>
-  </div>
-  <div style="display: inline-block; background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 16px 20px; margin: 8px; width: 140px; text-align: center; vertical-align: middle; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="margin-bottom: 10px;" />
-    <div style="font-size: 14px; font-weight: 600; color: #C9D1D9; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">CSS</div>
-    <div style="font-size: 13px; font-weight: 500; color: #8B949E; margin-top: 6px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">3.4%</div>
-  </div>
+  <img src="https://img.shields.io/badge/Python-87.0%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-4.4%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/CSS-3.4%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <!-- END_LANGUAGES -->
   <br/>
   <a href="https://github.com/mayankpandey0">
