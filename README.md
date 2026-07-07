@@ -142,7 +142,7 @@ Feel free to reach out if you want to collaborate on AI projects, discuss Agenti
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FED8B1&height=100&section=footer"/>
   <p align="center"><strong>Crafted by Mayank Pandey © 2026</strong></p>
   <p align="center">Engineering the Intelligence Layer | One Commit at a Time</p>
 </div>
