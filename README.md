@@ -24,12 +24,6 @@
 
 ### ⚡ Strategic Focus
 
-<div align="center">
-  <img src="assets/profile-banner.png" width="100%" style="border-radius: 10px; max-width: 600px;" alt="Strategic Focus"/>
-</div>
-
-<br/>
-
 **AI Developer & Computer Science Student** | **Agentic Workflows & Systems Architecture**
 
 I build autonomous reasoning systems, high-precision retrieval engines, and developer tooling. My mission is elevating AI from conversational models to operational agents that can execute complex tasks with complete safety and program relevance.
