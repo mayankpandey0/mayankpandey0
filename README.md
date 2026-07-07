@@ -1,15 +1,15 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Mayank%20Pandey&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20%7C%20Agentic%20AI%20Specialist&descAlignY=60&descSize=20&fontColor=00ff9d" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Mayank%20Pandey&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20%7C%20Agentic%20AI%20Specialist&descAlignY=60&descSize=20&fontColor=ff9f00" alt="Header" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=1500&pause=1000&color=00ff9d&center=true&vCenter=true&width=700&lines=AI+Developer+%26+CSE+Student;Specializing+in+Agentic+AI;Building+Autonomous+Workflows;Engineering+RAG+Systems;System+Status%3A+ACTIVE." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=1500&pause=1000&color=ff9f00&center=true&vCenter=true&width=700&lines=AI+Developer+%26+CSE+Student;Specializing+in+Agentic+AI;Building+Autonomous+Workflows;Engineering+RAG+Systems;System+Status%3A+ACTIVE." alt="Typing SVG" />
   </a>
 
   <br/>
 
   <a href="https://github.com/mayankpandey0">
-    <img src="https://komarev.com/ghpvc/?username=mayankpandey0&color=00ff9d&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=mayankpandey0&color=ff9f00&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
   </a>
   <a href="https://www.linkedin.com/in/itsmayankpandey">
     <img src="https://img.shields.io/badge/Network-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -25,7 +25,7 @@
 ### ⚡ Strategic Focus
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px; max-width: 600px;" alt="Cyber GIF"/>
+  <img src="assets/profile-banner.png" width="100%" style="border-radius: 10px; max-width: 600px;" alt="Strategic Focus"/>
 </div>
 
 <br/>
@@ -49,7 +49,7 @@ I build autonomous reasoning systems, high-precision retrieval engines, and deve
   <tr>
     <td width="50%" valign="top">
       <h4>🤖 OpenEnv-CR</h4>
-      <img src="https://img.shields.io/badge/Status-Active%20Research-00ff9d?style=flat-square" />
+      <img src="https://img.shields.io/badge/Status-Active%20Research-ff9f00?style=flat-square" />
       <p>Deterministic OpenEnv-compatible code review simulation environment with structured programmatic grading and reinforcement learning interfaces.</p>
       <ul>
         <li>Configured reward shaping mechanisms.</li>
@@ -59,7 +59,7 @@ I build autonomous reasoning systems, high-precision retrieval engines, and deve
     </td>
     <td width="50%" valign="top">
       <h4>🧠 docChat</h4>
-      <img src="https://img.shields.io/badge/Status-Stable%20Release-00c8ff?style=flat-square" />
+      <img src="https://img.shields.io/badge/Status-Stable%20Release-ffb700?style=flat-square" />
       <p>Intelligent RAG utility enabling local natural language interactions, dependency indexing, and contextual query answering over complete projects.</p>
       <ul>
         <li>Optimized vector embeddings and chunking.</li>
@@ -105,7 +105,7 @@ I build autonomous reasoning systems, high-precision retrieval engines, and deve
 ### ⚡ Development Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankpandey0&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankpandey0&theme=sunset&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
@@ -120,7 +120,7 @@ I build autonomous reasoning systems, high-precision retrieval engines, and deve
   <!-- END_LANGUAGES -->
   <br/><br/>
   <a href="https://github.com/mayankpandey0">
-    <img src="https://streak-stats.demolab.com/?user=mayankpandey0&theme=tokyonight&hide_border=true&background=0f172a&ring=00ff9d&currStreakLabel=00aeff" alt="Mayank's Streak" width="100%" />
+    <img src="https://streak-stats.demolab.com/?user=mayankpandey0&theme=tokyonight&hide_border=true&background=0f172a&ring=ff9f00&currStreakLabel=ffb700" alt="Mayank's Streak" width="100%" />
   </a>
 </div>
 
