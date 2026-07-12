@@ -108,9 +108,9 @@ I build autonomous reasoning systems, high-precision retrieval engines, and deve
 
 <div align="center">
   <!-- START_LANGUAGES -->
-  <img src="https://img.shields.io/badge/Python-85.2%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-5.3%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/CSS-4.0%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Python-89.9%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-3.6%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/CSS-2.7%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <!-- END_LANGUAGES -->
   <br/><br/>
   <a href="https://github.com/mayankpandey0">
